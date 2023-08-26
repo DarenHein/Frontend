@@ -1,0 +1,67 @@
+¡Por supuesto! Aquí tienes una guía de estudio detallada para aprender HTML desde cero hasta un nivel experto. Sigue estos pasos y niveles para dominar HTML:
+
+**Nivel 1: Fundamentos Básicos de HTML**
+
+**Tema 1: Introducción a HTML**
+1. ¿Qué es HTML y cómo se utiliza en la web?
+2. Estructura básica de un documento HTML.
+3. Etiquetas, elementos y atributos.
+
+**Tema 2: Texto y Enlaces**
+1. Encabezados (`<h1>` a `<h6>`) y párrafos (`<p>`). TERMINADO 
+2. Estilos de texto: negrita (`<strong>`), cursiva (`<em>`).TERMINADO 
+3. Enlaces (`<a>`): enlaces internos, externos y anclas.TERMINADO 
+TEMA 2 TERMINAOD 
+**Tema 3: Listas y Imágenes**
+1. Listas ordenadas (`<ol>`) y no ordenadas (`<ul>`).TERMINADO 
+2. Listas descriptivas (`<dl>`, `<dt>`, `<dd>`). terminado 
+3. Inserción de imágenes (`<img>`). terminado 
+
+**Nivel 2: Estructurando Contenido con HTML**
+
+**Tema 4: Elementos Semánticos**
+1. Importancia de la semántica en HTML.
+2. Elementos semánticos como `<header>`, `<nav>`, `<article>`, `<section>`, `<footer>`.
+3. Uso de `<div>` y `<span>`.
+
+**Tema 5: Formularios y Entradas**
+1. Creación de formularios (`<form>`).
+2. Tipos de entrada: texto, contraseña, selección, radio, casilla de verificación.
+3. Etiqueta de área de texto (`<textarea>`).
+
+**Tema 6: Multimedia y Tablas**
+1. Incorporación de videos y audios (`<video>`, `<audio>`).
+2. Creación de tablas (`<table>`), filas (`<tr>`) y celdas (`<td>`, `<th>`). terminado 
+3. Agrupación de celdas (`<colspan>`, `<rowspan>`).
+
+**Nivel 3: Estilos y Avanzados en HTML**
+
+**Tema 7: Introducción a CSS**
+1. Relación entre HTML y CSS.
+2. Selección de elementos con CSS.
+3. Propiedades básicas de estilo: color, fondo, margen, padding.
+
+**Tema 8: Formato Avanzado de Texto**
+1. Uso de Google Fonts y fuentes locales.
+2. Estilos de texto avanzados: sombras, bordes y efectos.
+
+**Tema 9: Layout y Posicionamiento**
+1. Modelo de caja y conceptos relacionados.
+2. Posicionamiento: static, relative, absolute, fixed.
+3. Diseño flexible con Flexbox y CSS Grid.
+
+**Tema 10: Multimedia Avanzada**
+1. Uso de íconos y símbolos con librerías como FontAwesome.
+2. Incorporación de fuentes de íconos personalizadas.
+
+**Nivel 4: Práctica y Proyectos**
+
+**Tema 11: Práctica con Proyectos Pequeños**
+1. Crea un sitio web personal con información sobre ti.
+2. Construye una página de portafolio para mostrar proyectos.
+3. Diseña una página de contacto con formulario funcional.
+
+**Tema 12: Proyecto Final: Réplica de Sitio Web**
+Elige un sitio web existente y replica su diseño y funcionalidad. Esto te permitirá aplicar todos tus conocimientos y habilidades de HTML y CSS.
+
+Recuerda que la práctica constante es fundamental para el aprendizaje de HTML. A medida que avanzas, también puedes considerar la exploración de CSS avanzado, preprocesadores como Sass y frameworks de diseño como Bootstrap. ¡Disfruta del proceso de aprendizaje y construcción de páginas web impresionantes!

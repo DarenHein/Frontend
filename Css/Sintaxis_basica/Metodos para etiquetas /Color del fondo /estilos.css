@@ -1,0 +1,13 @@
+#Titulo {
+    color: white;
+    background-color: red;
+}
+#parrafo{
+    color: white; 
+    background-color: blue;
+}
+
+/*
+
+background-color nor sirve para cambair el color del fondo de la etiqueta 
+*/

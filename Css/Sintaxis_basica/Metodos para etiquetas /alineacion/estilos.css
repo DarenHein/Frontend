@@ -1,0 +1,14 @@
+#Titulo{
+    text-align: center;
+}
+#parrafo1{
+    text-align: right;
+}
+#parrafo2{
+    text-align: left;
+}
+
+/*
+
+text-align -> sirve para la alinecion del texto donde lo qquieremos osea si queremos que el texto este drecha izquierda o ne el centro 
+*/

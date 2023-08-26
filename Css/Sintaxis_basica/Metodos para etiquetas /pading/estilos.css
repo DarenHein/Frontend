@@ -1,0 +1,18 @@
+#cuerpo{
+    background-color: white;
+}
+#titulo{
+    color: black;
+    font-size: 100px;
+    background-color: aquamarine;
+}
+#parrafo{
+    color:white;
+    background-color: red;
+    font-size: 40px;
+    padding : 30px;
+}
+
+/*
+el pading lo ocupamos para la modificacion del ancho de lo que cubre la etiqueta en el ejemplo vemos etiquetas una con el padding de fabrica que es la de titulo y la otra con el padding modificado 
+*/

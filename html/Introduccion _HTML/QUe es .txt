@@ -1,0 +1,17 @@
+¡Por supuesto! Imagina que estás construyendo una casa. HTML sería como los cimientos y la estructura básica de la casa. Te ayuda a definir cómo se deben organizar las diferentes partes de tu casa, como las habitaciones, las ventanas y las puertas.
+
+En términos más simples:
+
+- **Etiquetas HTML son como instrucciones:** En lugar de usar martillos y clavos, usas etiquetas. Cada etiqueta es como una instrucción que le dice al navegador web qué hacer. Por ejemplo, `<p>` se usa para hacer párrafos, `<h1>` para títulos importantes y `<img>` para mostrar imágenes.
+
+- **Elementos son como piezas de la casa:** Una vez que sigues las instrucciones (etiquetas), obtienes elementos. Cada elemento es una parte de tu página, como un párrafo, una imagen o un encabezado.
+
+- **Atributos son como características especiales:** A veces, quieres darle características especiales a tus elementos, como decirle al navegador dónde encontrar una imagen. Estas características se llaman atributos. Por ejemplo, `<img src="imagen.jpg">` usa el atributo `src` para decirle al navegador dónde encontrar la imagen.
+
+- **Estructura de documento es como un plano de la casa:** Cada página web comienza con una estructura básica, como un plano de casa. Tienes una sección para la información del encabezado (`<head>`), como el título de la página, y una sección para el contenido visible (`<body>`), como el texto y las imágenes.
+
+- **Enlaces son como caminos entre casas:** Puedes usar HTML para crear enlaces que te lleven de una página a otra, igual que caminos que te llevan de una casa a otra.
+
+- **Formularios son como hojas de solicitud:** Si alguna vez completaste una hoja de solicitud para algo, como una tarjeta de membresía, eso es similar a un formulario en HTML. Puedes hacer formularios en línea para que las personas ingresen información, como su nombre y dirección.
+
+Por lo tanto, HTML es como la estructura básica y las instrucciones para construir tu página web. Imagina que estás construyendo una casa de bloques, pero en lugar de bloques, estás usando etiquetas y elementos para construir tu sitio web.

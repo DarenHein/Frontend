@@ -1,0 +1,14 @@
+.body{
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 25px;
+    background-color: orange;
+}
+
+/*
+en este css modifcmos el estilo de letra , color de la letra ,color del background y el tamaño 
+
+la doferencia en esto es que al poner una clase en el main modificcamos tood el domumento que este dentro de esta clase 
+
+aun podemos modifcar las etiquetas de forma individual 
+*/

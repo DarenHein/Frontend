@@ -1,0 +1,25 @@
+
+/*
+por etiqueta eset modifica todas las etiquetas con el mismo nombre 
+*/
+h1 {
+    color : red; 
+}
+/*
+por clase modifica los elementos por clase 
+*/
+clase {
+    color:blue; 
+}
+/*
+por identificardor modifica los elementos por el nombre del identificador 
+*/
+#identificador {
+    color : orange; 
+}
+
+/*
+las diferencias entre clases y identificador 
+los didentificadorees son por elementos unicos 
+mietras que las clases podemos reutlizarlas en multiples elementos 
+*/
